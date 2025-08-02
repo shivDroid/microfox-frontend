@@ -26,7 +26,7 @@ const BookCall = () => {
           <div>
             <h1 className="text-4xl font-bold mb-6">Book a Demo Call</h1>
             <p className="text-xl text-gray-600 mb-8">
-              Learn how Microfox can help automate your processes with our 
+              Learn how Microfox can help optimize your processes with our 
               prompt-based solution - no coding required.
             </p>
 
@@ -56,7 +56,7 @@ const BookCall = () => {
                 <div>
                   <h3 className="font-semibold">Expert Guidance</h3>
                   <p className="text-gray-600">
-                    Get personalized advice from our automation specialists
+                    Get personalized advice from our workflow optimization specialists
                   </p>
                 </div>
               </div>

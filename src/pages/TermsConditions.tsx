@@ -20,8 +20,8 @@ const TermsConditions = () => {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">2. Service Description</h2>
             <p className="text-gray-600">
-              Microfox provides an AI-powered automation platform that allows users to create and manage 
-              automations through natural language prompts. Our serverless infrastructure ensures 
+              Microfox provides an intelligent workflow optimization platform that allows users to create and manage 
+              automated processes through natural language prompts. Our serverless infrastructure ensures 
               cost-effective and efficient processing.
             </p>
           </section>
